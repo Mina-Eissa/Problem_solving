@@ -1,2 +1,3 @@
 solving leetcode daily challenge 'date'
 solving atcoder contest 'number'
+solveing codeforces contest 'type - number'
